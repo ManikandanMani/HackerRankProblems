@@ -1,5 +1,7 @@
 ## HackerRank-Problems   [GitHub](https://github.com/ManikandanMani/HackerRankProblems/)
-### The problems which i have solved are given below.   
+### Hi,:wave: I am manikandan  :technologist: I have been solving the hacker rank problems  
+### The problems which i have solved are given below , If you have any queries drop a message. :envelope_with_arrow:  
+:open_file_folder:	
 1. [Diagonal difference in an array.](https://github.com/ManikandanMani/HackerRankProblems/blob/master/DiagonalDifference.cs)
 2. [Compare the triplets.](https://github.com/ManikandanMani/HackerRankProblems/blob/master/compareTriplets.cs)
 3. [Minimum and maximum sum of elements in an array.](https://github.com/ManikandanMani/HackerRankProblems/blob/master/MinimumAndMaximumSumOfArray.cs)
