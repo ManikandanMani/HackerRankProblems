@@ -1,5 +1,6 @@
 ## HackerRank-Problems   [GitHub](https://github.com/ManikandanMani/HackerRankProblems/)
-### Hi,:wave: I am manikandan  :technologist: I have been solving the hacker rank problems  
+### Hi,:wave: 
+### I am manikandan  :technologist: I have been solving the hacker rank problems  
 ### The problems which i have solved are given below , If you have any queries drop a message. :envelope_with_arrow:  
 :open_file_folder:	
 1. [Diagonal difference in an array.](https://github.com/ManikandanMani/HackerRankProblems/blob/master/DiagonalDifference.cs)
